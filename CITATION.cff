@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite this repository if you use the data, code, figures, or analysis in your work."
+
+title: "Residential Construction Growth in Kyrgyzstan, 2021 to 2025"
+
+type: software
+
+authors:
+  family-names: "Bayakmatova"
+  given-names: "Aruuke"
+
+version: 1.0.0
+
+repository-code: "https://github.com/aruukebay/Residential-Construction-Growth-in-Kyrgyzstan-2021-to-2025"
+
+license: MIT
+
+abstract: >
+  This repository contains data, Python analysis code, reproducibility
+  materials, analysis outputs, and figures supporting a study of
+  residential construction growth and regional patterns in Kyrgyzstan
+  from 2021 to 2025.
+
+keywords:
+  "Kyrgyzstan"
+  "residential construction"
+  "construction growth"
+  "regional analysis"
+  "data analysis"
+  "reproducible research"
