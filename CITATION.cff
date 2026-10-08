@@ -6,8 +6,8 @@ title: "Residential Construction Growth in Kyrgyzstan, 2021 to 2025"
 type: software
 
 authors:
-  family-names: "Bayakmatova"
-  given-names: "Aruuke"
+  - family-names: "Bayakmatova"
+    given-names: "Aruuke"
 
 version: 1.0.0
 
@@ -22,9 +22,9 @@ abstract: >
   from 2021 to 2025.
 
 keywords:
-  "Kyrgyzstan"
-  "residential construction"
-  "construction growth"
-  "regional analysis"
-  "data analysis"
-  "reproducible research"
+  - Kyrgyzstan
+  - residential construction
+  - construction growth
+  - regional analysis
+  - data analysis
+  - reproducible research
