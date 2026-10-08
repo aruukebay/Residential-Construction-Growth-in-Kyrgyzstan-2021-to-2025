@@ -1,0 +1,267 @@
+{
+  "data": [
+    {
+      "pk": 142946,
+      "priority": 1,
+      "title_en": "Batken oblast",
+      "title_kg": "Баткен облусу",
+      "title_ru": "Баткенская область",
+      "values": [
+        {
+          "key": 2025,
+          "value": 71.2
+        },
+        {
+          "key": 2024,
+          "value": 68.9
+        },
+        {
+          "key": 2023,
+          "value": 117.3
+        },
+        {
+          "key": 2022,
+          "value": 76.5
+        },
+        {
+          "key": 2021,
+          "value": 63.4
+        }
+      ]
+    },
+    {
+      "pk": 142947,
+      "priority": 2,
+      "title_en": "Jalal-Abat oblast",
+      "title_kg": "Жалал-Абад облусу",
+      "title_ru": "Джалал-Абадская область",
+      "values": [
+        {
+          "key": 2025,
+          "value": 311.8
+        },
+        {
+          "key": 2024,
+          "value": 299.9
+        },
+        {
+          "key": 2023,
+          "value": 267.7
+        },
+        {
+          "key": 2022,
+          "value": 211.3
+        },
+        {
+          "key": 2021,
+          "value": 186.1
+        }
+      ]
+    },
+    {
+      "pk": 142948,
+      "priority": 3,
+      "title_en": "Yssyk-Kul oblast",
+      "title_kg": "Ысык-Көл облусу",
+      "title_ru": "Иссык-Кульская область",
+      "values": [
+        {
+          "key": 2025,
+          "value": 86.3
+        },
+        {
+          "key": 2024,
+          "value": 82.9
+        },
+        {
+          "key": 2023,
+          "value": 63.9
+        },
+        {
+          "key": 2022,
+          "value": 89.2
+        },
+        {
+          "key": 2021,
+          "value": 85.8
+        }
+      ]
+    },
+    {
+      "pk": 142949,
+      "priority": 4,
+      "title_en": "Naryn oblast",
+      "title_kg": "Нарын облусу",
+      "title_ru": "Нарынская область",
+      "values": [
+        {
+          "key": 2025,
+          "value": 36.2
+        },
+        {
+          "key": 2024,
+          "value": 32.0
+        },
+        {
+          "key": 2023,
+          "value": 29.4
+        },
+        {
+          "key": 2022,
+          "value": 40.1
+        },
+        {
+          "key": 2021,
+          "value": 43.1
+        }
+      ]
+    },
+    {
+      "pk": 142950,
+      "priority": 5,
+      "title_en": "Osh oblast",
+      "title_kg": "Ош облусу",
+      "title_ru": "Ошская область",
+      "values": [
+        {
+          "key": 2025,
+          "value": 206.4
+        },
+        {
+          "key": 2024,
+          "value": 190.8
+        },
+        {
+          "key": 2023,
+          "value": 240.6
+        },
+        {
+          "key": 2022,
+          "value": 276.7
+        },
+        {
+          "key": 2021,
+          "value": 237.9
+        }
+      ]
+    },
+    {
+      "pk": 142951,
+      "priority": 6,
+      "title_en": "Talas oblast",
+      "title_kg": "Талас облусу",
+      "title_ru": "Таласская область",
+      "values": [
+        {
+          "key": 2025,
+          "value": 80.8
+        },
+        {
+          "key": 2024,
+          "value": 83.7
+        },
+        {
+          "key": 2023,
+          "value": 60.1
+        },
+        {
+          "key": 2022,
+          "value": 69.0
+        },
+        {
+          "key": 2021,
+          "value": 63.2
+        }
+      ]
+    },
+    {
+      "pk": 142952,
+      "priority": 7,
+      "title_en": "Chui oblast",
+      "title_kg": "Чүй облусу",
+      "title_ru": "Чуйская область",
+      "values": [
+        {
+          "key": 2025,
+          "value": 215.8
+        },
+        {
+          "key": 2024,
+          "value": 151.1
+        },
+        {
+          "key": 2023,
+          "value": 218.2
+        },
+        {
+          "key": 2022,
+          "value": 221.3
+        },
+        {
+          "key": 2021,
+          "value": 168.3
+        }
+      ]
+    },
+    {
+      "pk": 142953,
+      "priority": 8,
+      "title_en": "Bishkek city",
+      "title_kg": "Бишкек ш.",
+      "title_ru": "г.Бишкек",
+      "values": [
+        {
+          "key": 2025,
+          "value": 617.0
+        },
+        {
+          "key": 2024,
+          "value": 539.1
+        },
+        {
+          "key": 2023,
+          "value": 513.7
+        },
+        {
+          "key": 2022,
+          "value": 379.9
+        },
+        {
+          "key": 2021,
+          "value": 348.6
+        }
+      ]
+    },
+    {
+      "pk": 142954,
+      "priority": 9,
+      "title_en": "Osh city",
+      "title_kg": "Ош ш.",
+      "title_ru": "г.Ош",
+      "values": [
+        {
+          "key": 2025,
+          "value": 194.4
+        },
+        {
+          "key": 2024,
+          "value": 125.0
+        },
+        {
+          "key": 2023,
+          "value": 88.0
+        },
+        {
+          "key": 2022,
+          "value": 98.6
+        },
+        {
+          "key": 2021,
+          "value": 116.8
+        }
+      ]
+    }
+  ],
+  "title": "Dwelling houses by territory",
+  "units": "thous. sq.m."
+}
